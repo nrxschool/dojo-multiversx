@@ -200,7 +200,7 @@
 - 🔹 GraphQL Basics (curso introdutório gratuito da Apollo)
 🔗 https://www.howtographql.com/
 
-### ⌛ Week #2: Wallet Challenger
+### ✅ Week #2: Wallet Challenger
 
 
 🚀**Start:** 26/03/2025
@@ -240,7 +240,7 @@
 - https://docs.multiversx.com/wallet/keystore/
 - https://multiversx.com/builders/builder-tools/javascript-sdk
 
-### ⏰ Week #3: Oracle Challenger
+### ⌛ Week #3: Oracle Challenger
 
 
 🚀**Start:** 02/04/2025
