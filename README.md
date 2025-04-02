@@ -430,3 +430,42 @@
 -
 -
 -
+
+## TLDR
+
+### Numbers
+
+| participants | projects | challenger |
+| ------------ | -------- | ---------- |
+| 0            | 0        | 0          |
+
+### Participants Posts
+
+-
+-
+-
+
+## Opening Video
+
+
+## Stage #3
+
+## Challenger:
+
+### ⏰ Week #1: Web3 + ElizaOS
+
+🚀**Start:** xx/xx/2025
+
+🔚**End:** xx/xx/2025
+
+### ⏰ Week #2: Web3 + ElizaOS
+
+🚀**Start:** xx/xx/2025
+
+🔚**End:** xx/xx/2025
+
+### ⏰ Week #3: Web3 + ElizaOS
+
+🚀**Start:** xx/xx/2025
+
+🔚**End:** xx/xx/2025
