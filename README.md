@@ -1,5 +1,7 @@
 # **🟢 Dojo MultiversX**
 
+## Stage #1
+
 ## TLDR
 
 ### Numbers
@@ -32,16 +34,15 @@
 
 ## Opening Video
 
-
-## Stage #1
-
 ## Challenger:
 
 ### ✅ Week #0: START
 
+
 🚀**Start:** 07/02/2025
 
 🔚**End:** 12/02/2025
+
 
 - Install Rust
 - Install xPortal (Wallet)
@@ -49,23 +50,27 @@
 
 ### ✅ Week #1: Rust Server
 
+
 🚀**Start:** 13/02/2025
 
 🔚**End:** 19/02/2025
+
 
 - **Desafio:** Criar um CRUD (Create, Read, Update, Delete) para gerenciar registros (ex.: pessoas, livros).
 
 ## Links úteis
 
--
+- 
 -
 -
 
 ### ✅ Week #2:  IA com Typescript
 
+
 🚀**Start:** 19/02/2025
 
 🔚**End:** 26/02/2025
+
 
 - **Desafio:** Desenvolver um chatbot simples utilizando GPT.
 
@@ -77,9 +82,11 @@
 
 ### ✅ Week #3:  WebAssembly
 
+
 🚀**Start:** 26/02/2025
 
 🔚**End:** 05/03/2025
+
 
 - **Desafio:** Criar binários WebAssembly e executá-los em diferentes runtimes.
 
@@ -91,9 +98,11 @@
 
 ### ✅ Week #4:  Eliza Básico
 
+
 🚀**Start:** 05/03/2025
 
 🔚**End:** 12/03/2025
+
 
 - **Desafio:** Criar um agente simples com Eliza utilizando um character file.
 
@@ -104,32 +113,37 @@
 -
 
 ---
+
+## Stage #2
+
 ## TLDR
 
 ### Numbers
 
 | participants | projects | challenger |
 | ------------ | -------- | ---------- |
-| 0            | 0        | 0          |
+| 15            | 5        | 2          |
 
 ### Participants Posts
 
--
--
--
+- https://www.linkedin.com/posts/pablo-santos-46794a269_blockchain-multiversx-web3-activity-7310447729946603521--DTW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHQRg8BaAmI9cpnDWFoRO4UxzDZxsDL4T4 #1 Blockchain Explorer ✅
+- https://github.com/thepablosantos/multiversx-block-explorer - #1 Blockchain Explorer
+- https://github.com/uederson-ferreira/multiversx-web-wallet.git - #2 Wallet Challenge
+- https://github.com/vinibarbosabr/degensentinels-mailbox #2 Email Box with Smart Contract
+- https://github.com/Jistriane/Explorador - #1 Blockchain Explorer
+- https://www.linkedin.com/posts/pablo-santos-46794a269_blockchain-desenvolvimento-multiversx-activity-7311719670510702593-wekP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHQRg8BaAmI9cpnDWFoRO4UxzDZxsDL4T4 - #2 Wallet Challenge ✅
 
 ## Opening Video
-
-
-## Stage #2
 
 ## Challenger:
 
 ### ✅ Week #1: Blockchain Explorer
 
+
 🚀**Start:** 19/03/2025
 
 🔚**End:** 26/03/2025
+
 
 > [!CAUTION]
 > must have
@@ -156,15 +170,43 @@
 
 ## Links úteis
 
--
--
--
+- 🔹 MultiversX GraphQL API (endpoints e exemplos de queries)
+🔗 https://api.multiversx.com/graphql
+
+- 🔹 GraphQL Playground da MultiversX (para testar queries)
+🔗 https://explorer.multiversx.com/graphql
+
+- 🔹 React (Documentação Oficial)
+🔗 https://react.dev/
+
+- 🔹 Vue.js (Documentação Oficial)
+🔗 https://vuejs.org/
+
+- 🔹 Apollo Client (para GraphQL no Frontend - React/Vue)
+🔗 https://www.apollographql.com/docs/react/
+
+- 🔹 Axios (para requisições HTTP, alternativa ao Apollo Client)
+🔗 https://axios-http.com/docs/intro
+
+- 🔹 Tailwind CSS (para estilização rápida e responsiva)
+🔗 https://tailwindcss.com/
+
+- 🔹 Material UI (biblioteca de componentes para React)
+🔗 https://mui.com/
+
+- 🔹 Vue Material (biblioteca de componentes para Vue.js)
+🔗 https://vuematerial.io/
+
+- 🔹 GraphQL Basics (curso introdutório gratuito da Apollo)
+🔗 https://www.howtographql.com/
 
 ### ⌛ Week #2: Wallet Challenger
+
 
 🚀**Start:** 26/03/2025
 
 🔚**End:** 02/04/2025
+
 
 > [!CAUTION]
 > must have
@@ -191,15 +233,20 @@
 
 ## Links úteis
 
--
--
--
+- https://docs.multiversx.com/developers/creating-wallets/
+- https://multiversx.com/builders/builder-tools/javascript-sdk
+- https://stackoverflow.com/questions/72119515/getting-list-with-the-multiversxs-esdt-tokens-and-balances-from-an-address-a
+- https://docs.multiversx.com/integrators/creating-transactions/
+- https://docs.multiversx.com/wallet/keystore/
+- https://multiversx.com/builders/builder-tools/javascript-sdk
 
 ### ⏰ Week #3: Oracle Challenger
+
 
 🚀**Start:** 02/04/2025
 
 🔚**End:** 09/04/2025
+
 
 > [!CAUTION]
 > must have
@@ -227,15 +274,21 @@
 
 ## Links úteis
 
--
--
--
+- https://pt.w3d.community/panegali/desbloqueando-a-identidade-web3-blockchains-credenciais-e-oraculos-e87
+- https://docs.multiversx.com/learn/multiversx-ecosystem/
+- https://docs.multiversx.com/sdk-and-tools/sdk-dapp/
+- https://multiversx.com/blog/umbrella-oracle-live-multiversx
+- https://github.com/multiversx/mx-oracles-go
+- https://docs.multiversx.com/governance/overview/
+- https://periodicos.univali.br/index.php/acotb/article/view/17411/9900
 
 ### ⏰ Week #4: Email Box com Smart Contract
+
 
 🚀**Start:** 09/04/2025
 
 🔚**End:** 16/04/2025
+
 
 > [!CAUTION]
 > must have
@@ -264,9 +317,19 @@
 
 ## Links úteis
 
--
--
--
+- https://docs.multiversx.com/sdk-and-tools/sdk-js/
+- https://saltandpepper.co/blog/how-to-add-google-authentication-to-your-multiversx-web3-app-2/
+- https://docs.multiversx.com/developers/tutorials/crowdfunding-p1/
+- https://docs.multiversx.com/sdk-and-tools/sdk-js/sdk-js-cookbook-v14/
+- https://multiversx.com/blog/arcana-multiversx-social-web3-login
+- https://docs.arcana.network/auth/onboard/mvx/
+- https://cointelegraph.com/news/multiversx-new-metamask-2fa-integration
+- https://multiversx.com/blog/what-are-onchain-passkeys
+
+ 
+---
+
+## Stage #3
 
 ## TLDR
 
@@ -284,16 +347,15 @@
 
 ## Opening Video
 
-
-## Stage #3
-
 ## Challenger:
 
 ### ⏰ Week #1: Smartcontracts Challenger: Token ERC20 + ElizaOS
 
+
 🚀**Start:** 16/04/2025
 
 🔚**End:** 23/04/2025
+
 
 > [!CAUTION]
 > must have
@@ -330,9 +392,11 @@
 
 ### ⏰ Week #2: Smartcontracts Challenger: Voting System + ElizaOS
 
+
 🚀**Start:** 23/04/2025
 
 🔚**End:** 30/04/2025
+
 
 > [!CAUTION]
 > must have
@@ -369,9 +433,11 @@
 
 ### ⏰ Week #3: Smartcontracts Challenger: DeFi Zero-Collateral Lending + ElizaOS
 
+
 🚀**Start:** 30/04/2025
 
 🔚**End:** 07/05/2025
+
 
 > [!CAUTION]
 > must have
@@ -407,9 +473,11 @@
 
 ### ⏰ Week #4: Smartcontracts Challenger: Hack me!
 
+
 🚀**Start:** 07/05/2025
 
 🔚**End:** 14/05/2025
+
 
 > [!CAUTION]
 > must have
@@ -431,6 +499,10 @@
 -
 -
 
+---
+
+## Stage #3
+
 ## TLDR
 
 ### Numbers
@@ -448,24 +520,28 @@
 ## Opening Video
 
 
-## Stage #3
-
 ## Challenger:
 
 ### ⏰ Week #1: Web3 + ElizaOS
 
+
 🚀**Start:** xx/xx/2025
 
 🔚**End:** xx/xx/2025
+
 
 ### ⏰ Week #2: Web3 + ElizaOS
 
+
 🚀**Start:** xx/xx/2025
 
 🔚**End:** xx/xx/2025
+
 
 ### ⏰ Week #3: Web3 + ElizaOS
 
+
 🚀**Start:** xx/xx/2025
 
 🔚**End:** xx/xx/2025
+
