@@ -245,7 +245,7 @@
 
 🚀**Start:** 02/04/2025
 
-🔚**End:** 09/04/2025
+🔚**End:** 16/04/2025
 
 
 > [!CAUTION]
@@ -285,9 +285,9 @@
 ### ⏰ Week #4: Email Box com Smart Contract
 
 
-🚀**Start:** 09/04/2025
+🚀**Start:** 16/04/2025
 
-🔚**End:** 16/04/2025
+🔚**End:** 23/04/2025
 
 
 > [!CAUTION]
@@ -352,9 +352,9 @@
 ### ⏰ Week #1: Smartcontracts Challenger: Token ERC20 + ElizaOS
 
 
-🚀**Start:** 16/04/2025
+🚀**Start:** 23/04/2025
 
-🔚**End:** 23/04/2025
+🔚**End:** 30/04/2025
 
 
 > [!CAUTION]
@@ -393,9 +393,9 @@
 ### ⏰ Week #2: Smartcontracts Challenger: Voting System + ElizaOS
 
 
-🚀**Start:** 23/04/2025
+🚀**Start:** 30/04/2025
 
-🔚**End:** 30/04/2025
+🔚**End:** 07/05/2025
 
 
 > [!CAUTION]
@@ -434,9 +434,9 @@
 ### ⏰ Week #3: Smartcontracts Challenger: DeFi Zero-Collateral Lending + ElizaOS
 
 
-🚀**Start:** 30/04/2025
+🚀**Start:** 07/05/2025
 
-🔚**End:** 07/05/2025
+🔚**End:** 14/05/2025
 
 
 > [!CAUTION]
@@ -474,9 +474,9 @@
 ### ⏰ Week #4: Smartcontracts Challenger: Hack me!
 
 
-🚀**Start:** 07/05/2025
+🚀**Start:** 14/05/2025
 
-🔚**End:** 14/05/2025
+🔚**End:** 21/05/2025
 
 
 > [!CAUTION]
