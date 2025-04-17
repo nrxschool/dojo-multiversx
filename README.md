@@ -6,9 +6,9 @@
 
 ### Numbers
 
-| participants | projects | challenger |
-| ------------ | -------- | ---------- |
-| 31            | 19        | 5          |
+| participants | projects | challenger | teams |
+| ------------ | -------- | ---------- | ----- |
+| 31           | 19       | 5          | 10    |
 
 ### Participants Posts
 
