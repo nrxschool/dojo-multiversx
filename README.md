@@ -120,9 +120,9 @@
 
 ### Numbers
 
-| participants | projects | challenger |
-| ------------ | -------- | ---------- |
-| 15            | 5        | 2          |
+| participants | projects | challenges | teams |
+| ------------ | -------- | ---------- | ----- |
+| 25           | 9        | 3          | 5     |
 
 ### Participants Posts
 
@@ -132,6 +132,10 @@
 - https://github.com/vinibarbosabr/degensentinels-mailbox #2 Email Box with Smart Contract
 - https://github.com/Jistriane/Explorador - #1 Blockchain Explorer
 - https://www.linkedin.com/posts/pablo-santos-46794a269_blockchain-desenvolvimento-multiversx-activity-7311719670510702593-wekP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHQRg8BaAmI9cpnDWFoRO4UxzDZxsDL4T4 - #2 Wallet Challenge ✅
+- https://www.linkedin.com/posts/pablo-santos-46794a269_blockchain-desenvolvimento-multiversx-activity-7314712652667105283-D2sS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOcSjUBgmOYaj0RheilTWRVkKqxuMWfDf4 - #3 Oracle Challenger ✅
+- https://github.com/Jistriane/Oraculo - #3 Oracle Challenge ✅
+- https://www.linkedin.com/posts/uedersonferreira_multiversx-web3-blockchain-activity-7316619192730902528-IVvO/?utm_source=share&utm_medium=member_ios&rcm=ACoAABhZLWcBqIgxn_cVQNvSrnMjIaWzppwlYBw - #3 Oracle Challenger ✅
+- https://github.com/bredacoder/email-box-dapp - #4 Email Box with Smart Contract
 
 ## Opening Video
 
